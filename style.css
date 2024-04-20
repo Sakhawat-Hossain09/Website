@@ -1,0 +1,33 @@
+nav{
+    display: flex;
+    flex-direction: row;
+    justify-content: right;
+    border: 1px black;
+}
+.navBtn{
+    background-color: rgb(172, 108, 231);
+    border: 1px hsl(282, 31%, 40%) solid;
+    margin-left: 1em;
+    margin-right: 1em;
+    border-radius: 100px;
+    color: hsl(0, 0%, 0%);
+    padding: 7px;
+
+}
+#text{
+    margin-top: 300px;
+    font-size: 2em;
+}
+#indexBody{
+
+    font-family: Verdana;
+}
+#indexH1{
+    font-size: 10em;
+    text-align: center;
+}
+
+
+.indexLinks{
+    font-size: 3em;
+}
