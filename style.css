@@ -31,3 +31,40 @@ nav{
 .indexLinks{
     font-size: 3em;
 }
+/*
+#mew{
+    animation-name: squarce;
+    animation-duration: 10;
+    animation-iteration-count: infinite;
+}
+
+
+@keyframes squarce {
+    0% {
+        background-color: blue;
+        left: 0;
+        right: 0;
+    }
+    25% {
+        background-color: rgb(126, 246, 66);
+        left: 400px;
+        right: 0;
+    }
+    50% {
+        background-color: rgb(34, 153, 169);
+        left: 0;
+        right: 500px;
+        border-radius: 50%;
+    }
+    75%{
+        background-color: aqua;
+        left: 500px;
+        right: 500px;
+    }
+    100% {
+        background-color: rgb(164, 58, 207);
+        left: 0;
+        right: 0;
+    }
+}
+*/
